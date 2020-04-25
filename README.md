@@ -12,11 +12,13 @@ via composer
 
 >use Devninja\University\University;
 
->public function exampleFunction(){
+```sh
+public function exampleFunction(){
     return University::getUniversities(); // Returns all universities 
-    return University::getFaculties('university'); // Returns faculties of a university 
+    return University::getFaculties('university'); // Returns faculties of university 
     return University::getDegrees('Faculty'); // Returns degrees of a univeristy 
 }
+```
 
 # Contributing
 
