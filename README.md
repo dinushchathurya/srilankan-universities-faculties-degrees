@@ -4,9 +4,9 @@ This includes all Srilankan Universities,Faculties & Undergraduate Degree Progra
 
 ### Installation
 
-via composer 
+via composer
 
-composer require dinushchathurya/srilankan-universities
+`composer require dinushchathurya/srilankan-universities`
 
 ### Usage 
 
