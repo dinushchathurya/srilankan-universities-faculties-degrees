@@ -16,7 +16,7 @@ use Devninja\University\University;
 public function exampleFunction(){
 
     return University::getUniversities(); // Returns all universities 
-    return University::getFaculties('university'); // Returns faculties of university 
+    return University::getFaculties('University'); // Returns faculties of university 
     return University::getDegrees('Faculty'); // Returns degrees of a univeristy 
 }
 ```
