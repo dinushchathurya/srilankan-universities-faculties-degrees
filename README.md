@@ -10,7 +10,7 @@ via composer
 
 ### Usage 
 
-use Devninja\University\University;
+`use Devninja\University\University;
 
 
 public function exampleFunction(){
@@ -18,5 +18,5 @@ public function exampleFunction(){
     return University::getFaculties('university'); // Returns faculties of a university <br>
     return University::getDegrees('Faculty'); // Returns degrees of a univeristy <br>
 }
-
+`
 
