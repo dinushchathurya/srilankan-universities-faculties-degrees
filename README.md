@@ -10,10 +10,11 @@ via composer
 
 ### Usage 
 
->use Devninja\University\University;
+```sh 
+use Devninja\University\University;
 
-```sh
 public function exampleFunction(){
+
     return University::getUniversities(); // Returns all universities 
     return University::getFaculties('university'); // Returns faculties of university 
     return University::getDegrees('Faculty'); // Returns degrees of a univeristy 
