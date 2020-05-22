@@ -1,6 +1,6 @@
 <p align="center">
-    - stable release version: ![version](https://img.shields.io/badge/version-1.0.0-blue)
-    - build: ![build](https://img.shields.io/badge/build-passing-yellowgreen)
+    <img src="https://img.shields.io/badge/version-1.0.0-blue">
+    <img src="https://img.shields.io/badge/build-passing-yellowgreen">
    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dinushchathurya/srilankan-universities-faculties-degress">
     
     
