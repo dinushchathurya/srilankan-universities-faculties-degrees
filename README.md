@@ -50,7 +50,7 @@ You can find the working demo for this package from [here](https://srilankan-uni
 
 Author [Dinush Chathurya](https://dinushchathurya.github.io/)
 
-## License
+# License
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
